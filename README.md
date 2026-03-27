@@ -2,8 +2,8 @@
 ## Projects
 - [crack402](https://github.com/jessepinkman9900/crack402) - Full-stack sandbox software. Create firecracker microvms using agentic payments over a serverless control plane built on cloudflare workers and tempo mpp
 - [daytona-mpp](https://github.com/jessepinkman9900/daytona-mpp) - provision Daytona Sanndbox using agentic payments (Tempo MPP)
-- [pgrx-data-retention](https://github.com/jessepinkman9900/code-snippets/tree/main/pgrx-data-retention) - PostgreSQL extension to enforce data retention policies in server
-- [pgwire-pglite](https://github.com/jessepinkman9900/code-snippets/tree/main/pgwire-pglite) - run postgres like db in memory for testing. built using pglite
+- [pgrx-data-retention](https://github.com/jessepinkman9900/code-snippets/tree/main/pgrx-data-retention) - PostgreSQL extension to enforce data retention policies on a per-table basis, built using pgrx
+- [pgwire-pglite](https://github.com/jessepinkman9900/code-snippets/tree/main/pgwire-pglite) - run postgres like db in memory for testing. built using pglite and supports pgwire protocol
 
 ## Experiments
 - [print-a-tshirt](https://print-a-tshirt.vercel.app) - design and print custom t-shirts online using agentic payments (Tempo MPP)
