@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jessepinkman9900/jessepinkman9900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Distributed Systems
+---
 
-Here are some ideas to get you started:
+## Projects
+- [crack402](https://github.com/jessepinkman9900/crack402) - Full-stack sandbox software. Create firecracker microvms using agentic payments over a serverless control plane built on cloudflare workers and tempo mpp
+- [daytona-mpp](https://github.com/jessepinkman9900/daytona-mpp) - provision Daytona Sanndbox using agentic payments (Tempo MPP)
+- [pgrx-data-retention](https://github.com/jessepinkman9900/code-snippets/tree/main/pgrx-data-retention) - PostgreSQL extension to enforce data retention policies in server
+- [pgwire-pglite](https://github.com/jessepinkman9900/code-snippets/tree/main/pgwire-pglite) - run postgres like db in memory for testing. built using pglite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiments
+- [print-a-tshirt](https://print-a-tshirt.vercel.app) - design and print custom t-shirts online using agentic payments (Tempo MPP)
+
+## Previous Work
+- [funnel.markets](https://funnel.markets) - Hyperliquid Data Infrastructure and Indexer
+- [canto](https://canto.io) - Canto L1 Data Infrastructure and Indexer
+- [blankrasa](https://www.blankrasa.com)  - NFT Marketplace on Canto
+
+## Connect With Me
+
+- **Twitter:** [@jesepinkman9900](https://twitter.com/jesepinkman9900)
+- **GitHub:** [@jessepinkman9900](https://github.com/jessepinkman9900)
+
+---
+
+*Open to collaborations on backend systems, blockchain projects, and distributed systems challenges. Feel free to reach out!*
+
