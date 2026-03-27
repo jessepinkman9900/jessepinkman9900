@@ -1,7 +1,3 @@
-# Hi there 👋
-
-Backend & Distributed Systems
----
 
 ## Projects
 - [crack402](https://github.com/jessepinkman9900/crack402) - Full-stack sandbox software. Create firecracker microvms using agentic payments over a serverless control plane built on cloudflare workers and tempo mpp
