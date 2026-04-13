@@ -11,8 +11,8 @@
 
 ## Previous Work
 - [funnel.markets](https://funnel.markets) - Hyperliquid Data Infrastructure and Indexer
-- [canto](https://canto.io) - Canto L1 Data Infrastructure and Indexer
-- [blankrasa](https://www.blankrasa.com)  - NFT Marketplace on Canto
+- [canto](https://canto.io) - Canto L1 Data Infrastructure and Indexer, Uniswap v2 & Compound v2 forks
+- [blankrasa](https://www.blankrasa.com)  - NFT Marketplace on Canto, custom contracts & OpenSea seaport
 
 ## Connect With Me
 
