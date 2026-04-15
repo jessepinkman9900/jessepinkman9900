@@ -5,8 +5,9 @@
 - [daytona-mpp](https://github.com/jessepinkman9900/daytona-mpp) - provision Daytona Sanndbox using agentic payments (Tempo MPP)
 - [pgrx-data-retention](https://github.com/jessepinkman9900/code-snippets/tree/main/pgrx-data-retention) - PostgreSQL extension to enforce data retention policies on a per-table basis, built using pgrx
 - [pgwire-pglite](https://github.com/jessepinkman9900/code-snippets/tree/main/pgwire-pglite) - run postgres like db in memory for testing. built using pglite and supports pgwire protocol
+- [Rancher + IaC multi-region EKS](https://github.com/jessepinkman9900/code-snippets/tree/main/k8s-rancher) - use rancher to manage multiple k8s cluster deployed using terraform in multiple regions
 
-## Experiments
+## Products
 - [print-a-tshirt](https://print-a-tshirt.vercel.app) - design and print custom t-shirts online using agentic payments (Tempo MPP)
 
 ## Previous Work
