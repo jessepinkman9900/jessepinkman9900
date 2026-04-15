@@ -8,7 +8,7 @@
 - [Rancher + IaC multi-region EKS](https://github.com/jessepinkman9900/code-snippets/tree/main/k8s-rancher) - use rancher to manage multiple k8s cluster deployed using terraform in multiple regions
 
 ## Products
-- [print-a-tshirt](https://print-a-tshirt.vercel.app) - design and print custom t-shirts online using agentic payments (Tempo MPP)
+- [print-a-tshirt.com](https://print-a-tshirt.vercel.app) - design and print custom t-shirts online using agentic payments (Tempo MPP)
 
 ## Previous Work
 - [funnel.markets](https://funnel.markets) - Hyperliquid Data Infrastructure and Indexer
